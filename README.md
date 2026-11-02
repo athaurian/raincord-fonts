@@ -23,5 +23,5 @@ I use this with the [rain](https://raincord.dev) client mod on mobile. To apply 
 5. Paste the raw link to the JSON mapping file, for example:
 
    ```text
-     https://raw.githubusercontent.com/athaurian/fonts/main/mappings/raincord/source_sans_3.json
+   https://raw.githubusercontent.com/athaurian/fonts/main/mappings/raincord/source_sans_3.json
    ```
