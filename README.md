@@ -1,4 +1,9 @@
+<div align="center">
+<img src="monogram.svg" alt="fonts monogram" width="128">
+
 # Fonts
+
+</div>
 
 Hi. This is my repository for swapping out the default UI fonts in Discord
 (`ggsans`, `ggmono`, `ABCGintoNord`) with custom ones. I use it to host the raw
